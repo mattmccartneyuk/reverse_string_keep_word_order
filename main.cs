@@ -1,4 +1,6 @@
 using System;
+
+// REQUIRES .NET VERSION 7
 					
 public class Program
 {
